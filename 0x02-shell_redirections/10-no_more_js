@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d -name "*.js" | rm
+rm ./*.js
